@@ -56,8 +56,8 @@ cd widget_project
 
 Проект может использоваться как основа для дальнейшего развития с добавлением CSS и JavaScript.
 
-```markdown
-## 🖼️ Превью <img width="1470" height="832" alt="preview" src="https://github.com/user-attachments/assets/589f9c8d-a482-4227-99b9-befbb671bbc9" />
-проекта
+## 🖼️ Превью проекта
 
-![Превью сайта](assets/images/preview.png)
+![Превью сайта](https://github.com/user-attachments/assets/ef429b05-6e9c-4e8b-93a7-66706e33f963)
+
+
