@@ -1,4 +1,4 @@
-# HTML-Web-Page-Project
+# HTML Web Page Project
 
 ## Содержание 📚
 
